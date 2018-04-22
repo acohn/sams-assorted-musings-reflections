@@ -117,9 +117,9 @@ be reading this, **Happy anniversary!**  I look forward to the next one [20].
 
 [2] Okay, there have been a *lot* of gaps.  In the two years, I missed
 approximately 125 musings [3].  Of course, most of those are accounted
-for by the first summer after I started musing.  As far as i
+for by the first summer after I started musing.  As far as I
 can tell, I stopped after forty musings on 2016-06-01 with a musing on
-[software hammers](software-hammers) [4] and I restarted on 2018-08-30
+[software hammers](software-hammers) [4] and I restarted on 2016-08-30
 with a musing entitled [On making, breaking, and remaking the habit
 of daily writing](habit-of-writing).  That accounts for about ninety of
 the missed musings.  That would suggest that I've missed about 35 days
